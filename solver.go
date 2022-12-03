@@ -174,6 +174,6 @@ func main() {
 		fmt.Println("Success!!")
 		printBoard(board)
 	} else {
-		fmt.Println("can't solve...")
+		fmt.Println("I can't solve...")
 	}
 }
